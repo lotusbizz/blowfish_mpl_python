@@ -9,7 +9,7 @@
 
 ## Установка
 ```
-git clone https://github.com/yourrepo/blowfish_impl.git
+git clone https://github.com/lotusbizz/blowfish_impl.git
 cd blowfish_impl
 ```
 
